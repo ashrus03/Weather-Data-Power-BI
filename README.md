@@ -1,2 +1,7 @@
 # Weather-Data-Power-BI
-A responsive weather dashboard powered by a Weather API that displays real-time temperature, humidity, wind speed, UV index, and precipitation. It also provides a 7-day forecast, sunrise and sunset timings, air quality insights with pollutant data, and rain probability visualization in a clean, interactive UI.
+A modern, responsive weather dashboard built with an intuitive UI to display real-time weather updates, forecasts, and air quality insights for different cities. The dashboard provides:
+1. Current temperature, humidity, wind speed, visibility, and UV index
+2. 7-day weather forecast with sunrise and sunset times
+3. Air quality overview with pollutant breakdown (PM10, PM2.5, SO2, CO, O3, NO2)
+4. Chances of rain visualization for upcoming days
+Designed with clean data visualization and an interactive interface, this project helps users easily track weather conditions and environmental quality.
